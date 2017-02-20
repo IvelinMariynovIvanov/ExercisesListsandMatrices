@@ -1,0 +1,6 @@
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\obj\Debug\1. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\bin\Debug\ExercisesListsandMatrices.exe.config
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\bin\Debug\ExercisesListsandMatrices.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\bin\Debug\ExercisesListsandMatrices.pdb
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\obj\Debug\ExercisesListsandMatrices.exe
+n:\users\ivelin\documents\visual studio 2015\Projects\ExercisesListsandMatrices\ExercisesListsandMatrices\obj\Debug\ExercisesListsandMatrices.pdb
